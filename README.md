@@ -1,1 +1,3 @@
-# icicb-portal-react-website
+# ICICB Portal Website frontend
+
+Galaxy foundation
